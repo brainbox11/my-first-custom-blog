@@ -1,0 +1,157 @@
+html,body {
+	height: 100%;
+}
+body {
+	padding-top: 60px;
+}
+.navbar {
+	background: #337ab7;
+	
+}
+.navbar a {
+	color:  white!important;
+}
+.navbar li:hover {
+	background: #444;
+}
+.huge {
+	font-size: 40px;
+}
+.head {
+	color: #2fa4e7;
+}
+.tag-boxes .panel-primary{
+	border: 1px solid #2fa4e7;
+}
+.tag-boxes .panel-red{
+	color: white;
+	background: #d9534f;
+}
+.tag-boxes .panel-red a{
+	color: #d9534f;
+}
+.tag-boxes .panel-red a:hover{
+	color: #b52b27;
+}
+.tag-boxes .panel-yellow{
+	border: 1px solid #f0ad4e;
+}
+.tag-boxes .panel-yellow{
+	color: white;
+	background: #f0ad4e;
+}
+.tag-boxes .panel-yellow a{
+	color: #f0ad4e;
+}
+.tag-boxes .panel-yellow a:hover{
+	color: #df8a13;
+}
+.tag-boxes .panel-green{
+	border: 1px solid #34cb34;
+}
+.tag-boxes .panel-green{
+	color: white;
+	background: #34cb34;
+}
+.tag-boxes .panel-green a{
+	color: #34cb34;
+}
+.tag-boxes .panel-green a:hover{
+	color: #3d8b3d;
+
+}
+.wrapper{
+	min-height: 100%;
+	position: relative;
+}
+.body-section{
+	padding-bottom: 70px;
+}
+#wrapper {
+	min-height: 100%;
+	position: relative;
+}
+.post {
+	background: white;
+	border: 1px solid #E3E3E3;
+	margin: 15px 0px;
+}
+.post .post-date {
+	padding: 20px;
+	text-align: center;
+	border-right: 1px solid #E3E3E3;
+}
+.post .post-date .day {
+	font-size: 30px;
+	color: #24A7CF;
+}
+.post .post-date .year {
+	font-weight: 100;
+}
+.post .post-title {
+	padding: 5px 20px;
+	border-left: 1px solid #E3E3E3;
+	text-align: center;
+}
+.post .post-title span{
+	color: #24A7CF;
+	font-weight: 100;
+	margin-left: 10px;
+}
+.post .profile-picture {
+	padding: 20px;
+	text-align: center;
+}
+.post .profile-picture img {
+	width: 80%;
+}
+.post .desc {
+	font-family: arial;
+	font-size: 15px;
+	font-weight: 100;
+	padding: 15px;
+	line-height: 21px;
+}
+.post > a.btn {
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+.post .bottom {
+	padding: 10px 20px;
+	border-top: 1px solid #E3E3E3;
+	color: #C6C6C6;
+}
+.post .bottom .sec {
+	margin-left: 20px;
+}
+.post .bottom .first {
+	margin-right: 20px;
+}
+nav#pagination {
+	text-align: center;
+}
+.pagination > li > a {
+	color: #24A7CF;
+	padding: 15px 25px;
+	font-size: 18px;
+}
+footer{
+	background: #337ab7;
+	color: white;
+	height: 50px;
+	line-height: 50px;
+	font-size: 12px;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+footer a{
+	color: white;
+	font-weight: bold;
+    
+	
+}
+footer a:hover{
+	color: white;
+	text-decoration: underline;
+}
